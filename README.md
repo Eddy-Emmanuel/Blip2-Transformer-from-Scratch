@@ -135,8 +135,6 @@ pip install torch transformers peft bitsandbytes datasets pillow requests
 /kaggle/input/models/edifonjimmy/qformer/pytorch/default/1/checkpoints/qformer_best.pt
 ```
 
-Or load directly from HuggingFace: [`Edifon`](https://huggingface.co/Edifon)
-
 ---
 
 ## Config
